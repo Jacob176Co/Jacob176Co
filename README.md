@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on creating websites 
 - 📫 How to reach me abdulkarimsmartboy2001@gmail.com
 - 😄 Pronouns: He
-- ⚡ Fun fact: I like playing WOrld of Tanks Blitz
+- ⚡ Fun fact: I like playing World of Tanks Blitz
 
 <!---
 Jacob176Co/Jacob176Co is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
